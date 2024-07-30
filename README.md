@@ -1,2 +1,2 @@
-# qacourse
-QA Course + Software Testing
+# QA Course + Software Testing
+
