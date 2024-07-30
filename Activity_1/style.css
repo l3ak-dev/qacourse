@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f5f8;
+  text-align: center;
+  border-radius: 1px solid;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+}
+img {
+  width: 1500px;
+}
